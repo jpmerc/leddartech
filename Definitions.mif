@@ -1,0 +1,4 @@
+Compiler = gcc
+OptionsBase = -I. -c -pthread -MMD -fvisibility=hidden
+OptionsL = -std=c++11 -fpic
+# -ggdb  

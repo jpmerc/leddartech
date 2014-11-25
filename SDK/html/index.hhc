@@ -1,0 +1,477 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML><HEAD></HEAD><BODY>
+<OBJECT type="text/site properties">
+<param name="FrameName" value="right">
+</OBJECT>
+<UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Welcome to the Leddar&trade; SDK!"><param name="Local" value="index.html"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Leddar&trade; SDK C Interface"><param name="Local" value="_leddar_c.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Introduction"><param name="Local" value="_leddar_c.html#LC_Intro"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Installation for Windows"><param name="Local" value="_leddar_c.html#LC_InstW"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Installation for Linux"><param name="Local" value="_leddar_c.html#LC_InstL"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Usage"><param name="Local" value="_leddar_c.html#Usage"><param name="ImageNumber" value="1"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Leddar&trade; SDK .NET Interface"><param name="Local" value="_leddar_net.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Introduction"><param name="Local" value="_leddar_net.html#LNIntro"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Usage"><param name="Local" value="_leddar_net.html#LNUsage"><param name="ImageNumber" value="1"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Leddar&trade; SDK sample code"><param name="Local" value="_examples.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarC Example"><param name="Local" value="_examples.html#LeddarCEx"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarNET Example"><param name="Local" value="_examples.html#LeddarNETEx"><param name="ImageNumber" value="1"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="LabVIEW&trade; Integration Example"><param name="Local" value="_lab_view_ex.html"><param name="ImageNumber" value="11"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Introduction"><param name="Local" value="_lab_view_ex.html#LVIntro"><param name="ImageNumber" value="1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Description and usage"><param name="Local" value="_lab_view_ex.html#LVDesc"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Leddar2LabVIEW Control Center VI"><param name="Local" value="_lab_view_ex.html#CCVI"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarOpen sub-VI"><param name="Local" value="_lab_view_ex.html#LOVI"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="DataReceived Callback"><param name="Local" value="_lab_view_ex.html#DRC"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarRead sub-VI"><param name="Local" value="_lab_view_ex.html#LRVI"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarClose sub-VI"><param name="Local" value="_lab_view_ex.html#LCVI"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Detections Display sub-VI"><param name="Local" value="_lab_view_ex.html#DDVI"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="SingleExecution VI"><param name="Local" value="_lab_view_ex.html#SEVI"><param name="ImageNumber" value="1"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="MATLAB&trade; Integration Example"><param name="Local" value="_matlab_ex.html"><param name="ImageNumber" value="11"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Introduction"><param name="Local" value="_matlab_ex.html#Intro"><param name="ImageNumber" value="1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Description and usage"><param name="Local" value="_matlab_ex.html#DAU"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Leddar2Matlab Function"><param name="Local" value="_matlab_ex.html#L2MF"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarOpen Function"><param name="Local" value="_matlab_ex.html#LOF"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetData Function"><param name="Local" value="_matlab_ex.html#LGDF"><param name="ImageNumber" value="1"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarClose Function"><param name="Local" value="_matlab_ex.html#LCF"><param name="ImageNumber" value="1"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="RS-485 Communication Demo"><param name="Local" value="_r_s485_ex.html"><param name="ImageNumber" value="11"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Introduction"><param name="Local" value="_r_s485_ex.html#Introduction"><param name="ImageNumber" value="1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Usage"><param name="Local" value="_r_s485_ex.html#Usage"><param name="ImageNumber" value="1"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Description"><param name="Local" value="_r_s485_ex.html#Description"><param name="ImageNumber" value="1"></OBJECT>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Namespaces"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Namespace List"><param name="Local" value="namespaces.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarNET"><param name="Local" value="namespace_leddar_n_e_t.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Namespace Members"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="namespacemembers.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerations"><param name="Local" value="namespacemembers_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerator"><param name="Local" value="namespacemembers_eval.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Classes"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class List"><param name="Local" value="annotated.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarNET"><param name="Local" value="namespace_leddar_n_e_t.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Device"><param name="Local" value="class_leddar_n_e_t_1_1_device.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Device"><param name="Local" value="class_leddar_n_e_t_1_1_device_ab968b5da639b370ec51285dcc6687c17.html#ab968b5da639b370ec51285dcc6687c17"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~Device"><param name="Local" value="class_leddar_n_e_t_1_1_device_acb73036d40aeb5bd854e14e7c0fa5e32.html#acb73036d40aeb5bd854e14e7c0fa5e32"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfigureRecording"><param name="Local" value="class_leddar_n_e_t_1_1_device_abc66bd60d6f2db18ed9ccd941cc9832e.html#abc66bd60d6f2db18ed9ccd941cc9832e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Connect"><param name="Local" value="class_leddar_n_e_t_1_1_device_acc9dae7281ffd91f8686f28c79a7cc62.html#acc9dae7281ffd91f8686f28c79a7cc62"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DataReceivedEventHandler"><param name="Local" value="class_leddar_n_e_t_1_1_device_ab3c6fd545be3cd0336d1ed3c4f562cf2.html#ab3c6fd545be3cd0336d1ed3c4f562cf2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Detections"><param name="Local" value="class_leddar_n_e_t_1_1_device_a2899c858c9180d6c4b64a4a5d10f1cdb.html#a2899c858c9180d6c4b64a4a5d10f1cdb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Disconnect"><param name="Local" value="class_leddar_n_e_t_1_1_device_a8f7da1fb793b2bfcb8e48a71ab4d3215.html#a8f7da1fb793b2bfcb8e48a71ab4d3215"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ExecuteCommand"><param name="Local" value="class_leddar_n_e_t_1_1_device_a72119db1b9ed8c082c5cceb30da36d9b.html#a72119db1b9ed8c082c5cceb30da36d9b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetProperty"><param name="Local" value="class_leddar_n_e_t_1_1_device_aa5650e5fde32762771de81a576ede729.html#aa5650e5fde32762771de81a576ede729"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetResult"><param name="Local" value="class_leddar_n_e_t_1_1_device_a1308e9a4d8ee981681b3ef6ae01cb43b.html#a1308e9a4d8ee981681b3ef6ae01cb43b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetTextProperty"><param name="Local" value="class_leddar_n_e_t_1_1_device_a56434fe5a5f5e2f280aebb5e6fb90449.html#a56434fe5a5f5e2f280aebb5e6fb90449"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LoadRecord"><param name="Local" value="class_leddar_n_e_t_1_1_device_a3b4e98aecb3b29e9fbdf8c965b0848f3.html#a3b4e98aecb3b29e9fbdf8c965b0848f3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MoveRecordTo"><param name="Local" value="class_leddar_n_e_t_1_1_device_af9642ad608293494b92e78975e8be673.html#af9642ad608293494b92e78975e8be673"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RestoreConfiguration"><param name="Local" value="class_leddar_n_e_t_1_1_device_aae3bba07409d489d3481697c8bd0eace.html#aae3bba07409d489d3481697c8bd0eace"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SetProperty"><param name="Local" value="class_leddar_n_e_t_1_1_device_adb2bbadf9a7e0dbb67590b76e9a012c0.html#adb2bbadf9a7e0dbb67590b76e9a012c0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SetProperty"><param name="Local" value="class_leddar_n_e_t_1_1_device_a722e34e8646a83c73b7394128de28a4c.html#a722e34e8646a83c73b7394128de28a4c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StartDataTransfer"><param name="Local" value="class_leddar_n_e_t_1_1_device_a3cc5f4c8bc9291300f78bfeddd3c9e6a.html#a3cc5f4c8bc9291300f78bfeddd3c9e6a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StartRecording"><param name="Local" value="class_leddar_n_e_t_1_1_device_ab0c9d6b5c4ea3667560aa504130b553f.html#ab0c9d6b5c4ea3667560aa504130b553f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StepBackward"><param name="Local" value="class_leddar_n_e_t_1_1_device_aebe7f19cfbe8e6b5a8aafdeddcd836fe.html#aebe7f19cfbe8e6b5a8aafdeddcd836fe"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StepForward"><param name="Local" value="class_leddar_n_e_t_1_1_device_a4b37f602b6c0c813c9fcebbdc1cbaf09.html#a4b37f602b6c0c813c9fcebbdc1cbaf09"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StopDataTransfer"><param name="Local" value="class_leddar_n_e_t_1_1_device_a6bbc3531bcd0fa93848eaf3e8b357ed1.html#a6bbc3531bcd0fa93848eaf3e8b357ed1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StopRecording"><param name="Local" value="class_leddar_n_e_t_1_1_device_aa838a7e37f7f6b23709567dfde6dd87b.html#aa838a7e37f7f6b23709567dfde6dd87b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="WriteConfiguration"><param name="Local" value="class_leddar_n_e_t_1_1_device_a94e14bdd4f167fe794cf9c336ef18a59.html#a94e14bdd4f167fe794cf9c336ef18a59"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfigurationModified"><param name="Local" value="class_leddar_n_e_t_1_1_device_a9a6c3e023fcfd3e8406d3319391f17cc.html#a9a6c3e023fcfd3e8406d3319391f17cc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Connected"><param name="Local" value="class_leddar_n_e_t_1_1_device_a6caec9560cb7b73b7c0e2f316b72d99b.html#a6caec9560cb7b73b7c0e2f316b72d99b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CurrentRecordIndex"><param name="Local" value="class_leddar_n_e_t_1_1_device_a1805f6331e55a65ab1522e4f832253ea.html#a1805f6331e55a65ab1522e4f832253ea"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MaxRecordFileSize"><param name="Local" value="class_leddar_n_e_t_1_1_device_ae4df93d4dd4c2ae67df94c0d7f787593.html#ae4df93d4dd4c2ae67df94c0d7f787593"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ParentControl"><param name="Local" value="class_leddar_n_e_t_1_1_device_a0f4b337441ce732d5aa640523df33618.html#a0f4b337441ce732d5aa640523df33618"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Recording"><param name="Local" value="class_leddar_n_e_t_1_1_device_a82c46e9916cb644c4db08cbbf6f789e8.html#a82c46e9916cb644c4db08cbbf6f789e8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RecordingDirectory"><param name="Local" value="class_leddar_n_e_t_1_1_device_a6d395c19df3e9f58480106173cbaf3dd.html#a6d395c19df3e9f58480106173cbaf3dd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RecordLoading"><param name="Local" value="class_leddar_n_e_t_1_1_device_ae5ea800864e5f198da8635880135f3af.html#ae5ea800864e5f198da8635880135f3af"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RecordSize"><param name="Local" value="class_leddar_n_e_t_1_1_device_afd4b8af0e93a8cc851a9a143ee79273b.html#afd4b8af0e93a8cc851a9a143ee79273b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DataReceived"><param name="Local" value="class_leddar_n_e_t_1_1_device_ac21cc8c8651af6c638cf74226095f13c.html#ac21cc8c8651af6c638cf74226095f13c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DeviceControl"><param name="Local" value="class_leddar_n_e_t_1_1_device_control.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeviceControl"><param name="Local" value="class_leddar_n_e_t_1_1_device_control_a8167746fa9d2253e740210326156b2af.html#a8167746fa9d2253e740210326156b2af"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~DeviceControl"><param name="Local" value="class_leddar_n_e_t_1_1_device_control_a2cb5f921edb1e6bb145a6c746f0d7e87.html#a2cb5f921edb1e6bb145a6c746f0d7e87"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TheDevice"><param name="Local" value="class_leddar_n_e_t_1_1_device_control_a02857e6674f2552ad1451d20bd9beb2c.html#a02857e6674f2552ad1451d20bd9beb2c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Detection"><param name="Local" value="class_leddar_n_e_t_1_1_detection.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Amplitude"><param name="Local" value="class_leddar_n_e_t_1_1_detection_aa2652e9d7409d4c7a33dc0f5045f92bc.html#aa2652e9d7409d4c7a33dc0f5045f92bc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Distance"><param name="Local" value="class_leddar_n_e_t_1_1_detection_a839c474350458a396bb70fb0927224d0.html#a839c474350458a396bb70fb0927224d0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Flags"><param name="Local" value="class_leddar_n_e_t_1_1_detection_ac4760ec00cc1108d8ef82b5e188db453.html#ac4760ec00cc1108d8ef82b5e188db453"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Segment"><param name="Local" value="class_leddar_n_e_t_1_1_detection_ae87894e1f6e885b2d440ab6e6963e3cc.html#ae87894e1f6e885b2d440ab6e6963e3cc"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LdDetection"><param name="Local" value="struct_ld_detection.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="mAmplitude"><param name="Local" value="struct_ld_detection_ac771bf05afdf1dd4a7f23a573c335aea.html#ac771bf05afdf1dd4a7f23a573c335aea"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="mDistance"><param name="Local" value="struct_ld_detection_abbeb8b4c52d9aa5bc6361119634bde42.html#abbeb8b4c52d9aa5bc6361119634bde42"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="mFlags"><param name="Local" value="struct_ld_detection_ac2173ca362a331b11eef81e15c6b7903.html#ac2173ca362a331b11eef81e15c6b7903"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="mSegment"><param name="Local" value="struct_ld_detection_a7d6343d32b4f3018a2efbb23a172febe.html#a7d6343d32b4f3018a2efbb23a172febe"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Index"><param name="Local" value="classes.html"><param name="ImageNumber" value="11"></OBJECT>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Hierarchy"><param name="Local" value="hierarchy.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarNET::Detection"><param name="Local" value="class_leddar_n_e_t_1_1_detection.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarNET::Device"><param name="Local" value="class_leddar_n_e_t_1_1_device.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LdDetection"><param name="Local" value="struct_ld_detection.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="UserControl"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarNET::DeviceControl"><param name="Local" value="class_leddar_n_e_t_1_1_device_control.html"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="Class Members"><param name="Local" value="functions.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="functions.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="functions_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Variables"><param name="Local" value="functions_vars.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="functions_prop.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Events"><param name="Local" value="functions_evnt.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+<LI><OBJECT type="text/sitemap"><param name="Name" value="Files"><param name="ImageNumber" value="1"></OBJECT>
+  <UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File List"><param name="Local" value="files.html"><param name="ImageNumber" value="1"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Detection.h"><param name="Local" value="_detection_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Detection"><param name="Local" value="class_leddar_n_e_t_1_1_detection.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Amplitude"><param name="Local" value="class_leddar_n_e_t_1_1_detection_aa2652e9d7409d4c7a33dc0f5045f92bc.html#aa2652e9d7409d4c7a33dc0f5045f92bc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Distance"><param name="Local" value="class_leddar_n_e_t_1_1_detection_a839c474350458a396bb70fb0927224d0.html#a839c474350458a396bb70fb0927224d0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Flags"><param name="Local" value="class_leddar_n_e_t_1_1_detection_ac4760ec00cc1108d8ef82b5e188db453.html#ac4760ec00cc1108d8ef82b5e188db453"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Segment"><param name="Local" value="class_leddar_n_e_t_1_1_detection_ae87894e1f6e885b2d440ab6e6963e3cc.html#ae87894e1f6e885b2d440ab6e6963e3cc"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Device.cpp"><param name="Local" value="_device_8cpp.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Device.h"><param name="Local" value="_device_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Device"><param name="Local" value="class_leddar_n_e_t_1_1_device.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Device"><param name="Local" value="class_leddar_n_e_t_1_1_device_ab968b5da639b370ec51285dcc6687c17.html#ab968b5da639b370ec51285dcc6687c17"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~Device"><param name="Local" value="class_leddar_n_e_t_1_1_device_acb73036d40aeb5bd854e14e7c0fa5e32.html#acb73036d40aeb5bd854e14e7c0fa5e32"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfigureRecording"><param name="Local" value="class_leddar_n_e_t_1_1_device_abc66bd60d6f2db18ed9ccd941cc9832e.html#abc66bd60d6f2db18ed9ccd941cc9832e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Connect"><param name="Local" value="class_leddar_n_e_t_1_1_device_acc9dae7281ffd91f8686f28c79a7cc62.html#acc9dae7281ffd91f8686f28c79a7cc62"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DataReceivedEventHandler"><param name="Local" value="class_leddar_n_e_t_1_1_device_ab3c6fd545be3cd0336d1ed3c4f562cf2.html#ab3c6fd545be3cd0336d1ed3c4f562cf2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Detections"><param name="Local" value="class_leddar_n_e_t_1_1_device_a2899c858c9180d6c4b64a4a5d10f1cdb.html#a2899c858c9180d6c4b64a4a5d10f1cdb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Disconnect"><param name="Local" value="class_leddar_n_e_t_1_1_device_a8f7da1fb793b2bfcb8e48a71ab4d3215.html#a8f7da1fb793b2bfcb8e48a71ab4d3215"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ExecuteCommand"><param name="Local" value="class_leddar_n_e_t_1_1_device_a72119db1b9ed8c082c5cceb30da36d9b.html#a72119db1b9ed8c082c5cceb30da36d9b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetProperty"><param name="Local" value="class_leddar_n_e_t_1_1_device_aa5650e5fde32762771de81a576ede729.html#aa5650e5fde32762771de81a576ede729"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetResult"><param name="Local" value="class_leddar_n_e_t_1_1_device_a1308e9a4d8ee981681b3ef6ae01cb43b.html#a1308e9a4d8ee981681b3ef6ae01cb43b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GetTextProperty"><param name="Local" value="class_leddar_n_e_t_1_1_device_a56434fe5a5f5e2f280aebb5e6fb90449.html#a56434fe5a5f5e2f280aebb5e6fb90449"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LoadRecord"><param name="Local" value="class_leddar_n_e_t_1_1_device_a3b4e98aecb3b29e9fbdf8c965b0848f3.html#a3b4e98aecb3b29e9fbdf8c965b0848f3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MoveRecordTo"><param name="Local" value="class_leddar_n_e_t_1_1_device_af9642ad608293494b92e78975e8be673.html#af9642ad608293494b92e78975e8be673"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RestoreConfiguration"><param name="Local" value="class_leddar_n_e_t_1_1_device_aae3bba07409d489d3481697c8bd0eace.html#aae3bba07409d489d3481697c8bd0eace"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SetProperty"><param name="Local" value="class_leddar_n_e_t_1_1_device_adb2bbadf9a7e0dbb67590b76e9a012c0.html#adb2bbadf9a7e0dbb67590b76e9a012c0"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SetProperty"><param name="Local" value="class_leddar_n_e_t_1_1_device_a722e34e8646a83c73b7394128de28a4c.html#a722e34e8646a83c73b7394128de28a4c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StartDataTransfer"><param name="Local" value="class_leddar_n_e_t_1_1_device_a3cc5f4c8bc9291300f78bfeddd3c9e6a.html#a3cc5f4c8bc9291300f78bfeddd3c9e6a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StartRecording"><param name="Local" value="class_leddar_n_e_t_1_1_device_ab0c9d6b5c4ea3667560aa504130b553f.html#ab0c9d6b5c4ea3667560aa504130b553f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StepBackward"><param name="Local" value="class_leddar_n_e_t_1_1_device_aebe7f19cfbe8e6b5a8aafdeddcd836fe.html#aebe7f19cfbe8e6b5a8aafdeddcd836fe"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StepForward"><param name="Local" value="class_leddar_n_e_t_1_1_device_a4b37f602b6c0c813c9fcebbdc1cbaf09.html#a4b37f602b6c0c813c9fcebbdc1cbaf09"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StopDataTransfer"><param name="Local" value="class_leddar_n_e_t_1_1_device_a6bbc3531bcd0fa93848eaf3e8b357ed1.html#a6bbc3531bcd0fa93848eaf3e8b357ed1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StopRecording"><param name="Local" value="class_leddar_n_e_t_1_1_device_aa838a7e37f7f6b23709567dfde6dd87b.html#aa838a7e37f7f6b23709567dfde6dd87b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="WriteConfiguration"><param name="Local" value="class_leddar_n_e_t_1_1_device_a94e14bdd4f167fe794cf9c336ef18a59.html#a94e14bdd4f167fe794cf9c336ef18a59"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ConfigurationModified"><param name="Local" value="class_leddar_n_e_t_1_1_device_a9a6c3e023fcfd3e8406d3319391f17cc.html#a9a6c3e023fcfd3e8406d3319391f17cc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Connected"><param name="Local" value="class_leddar_n_e_t_1_1_device_a6caec9560cb7b73b7c0e2f316b72d99b.html#a6caec9560cb7b73b7c0e2f316b72d99b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CurrentRecordIndex"><param name="Local" value="class_leddar_n_e_t_1_1_device_a1805f6331e55a65ab1522e4f832253ea.html#a1805f6331e55a65ab1522e4f832253ea"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MaxRecordFileSize"><param name="Local" value="class_leddar_n_e_t_1_1_device_ae4df93d4dd4c2ae67df94c0d7f787593.html#ae4df93d4dd4c2ae67df94c0d7f787593"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ParentControl"><param name="Local" value="class_leddar_n_e_t_1_1_device_a0f4b337441ce732d5aa640523df33618.html#a0f4b337441ce732d5aa640523df33618"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Recording"><param name="Local" value="class_leddar_n_e_t_1_1_device_a82c46e9916cb644c4db08cbbf6f789e8.html#a82c46e9916cb644c4db08cbbf6f789e8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RecordingDirectory"><param name="Local" value="class_leddar_n_e_t_1_1_device_a6d395c19df3e9f58480106173cbaf3dd.html#a6d395c19df3e9f58480106173cbaf3dd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RecordLoading"><param name="Local" value="class_leddar_n_e_t_1_1_device_ae5ea800864e5f198da8635880135f3af.html#ae5ea800864e5f198da8635880135f3af"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RecordSize"><param name="Local" value="class_leddar_n_e_t_1_1_device_afd4b8af0e93a8cc851a9a143ee79273b.html#afd4b8af0e93a8cc851a9a143ee79273b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DataReceived"><param name="Local" value="class_leddar_n_e_t_1_1_device_ac21cc8c8651af6c638cf74226095f13c.html#ac21cc8c8651af6c638cf74226095f13c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Commands"><param name="Local" value="_device_8h.html#a4dab91e3ec16fdc53c660724fdb022b6"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="StartTeach"><param name="Local" value="_device_8h.html#a4dab91e3ec16fdc53c660724fdb022b6a6eb3d88bddda1868550bff0fe42fcf2a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="SetQuickLimits"><param name="Local" value="_device_8h.html#a4dab91e3ec16fdc53c660724fdb022b6adf5745cdf5e6090d6032adfdaf7148df"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DataLevels"><param name="Local" value="_device_8h.html#aadd43384df4a0af8e8d2fc548f180e68"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="None"><param name="Local" value="_device_8h.html#aadd43384df4a0af8e8d2fc548f180e68a6adf97f83acf6453d4a6a4b1070f3754"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="State"><param name="Local" value="_device_8h.html#aadd43384df4a0af8e8d2fc548f180e68a46a2a41cc6e552044816a2d04634545d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Detections"><param name="Local" value="_device_8h.html#aadd43384df4a0af8e8d2fc548f180e68ab3ef03d0b8ca3763658314b37558d3e5"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Properties"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LedIntensity"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a94349c592bc0e3a85b0bdcf64f67c0e4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="OversamplingExponent"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a3c80d9779a8626fc7ba1de844f6d8b35"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Oversampling"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a89fbce9a7b51ca36db737a977216ce8c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AccumulationExponent"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a62a93a1990367af454d67213683019f3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Accumulation"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a75e7e6f34b8a8e2d13d195cf0a8ef0a5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="BasePointCount"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4aeb00012ec200a0b3b51fc7408c22b325"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ThresholdOffset"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a63af14dc5e8cadd3734e15853de3050e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ZoneNearLimit"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a7cf48860ab4b820084e37248471edb26"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ZoneFarLimit"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a7e55508ba08ac621281e8bfa57b042cc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ZoneEnabled"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4ad143a398ab2c0f03fd83411a174d320c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ZoneSegmentEnabled"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a6c27a60244001281b8fbdc645bd382af"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ZoneRisingDebounce"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4ab6dd38c893d24d90278c5d4e1e91b633"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ZoneFallingDebounce"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a056bca567363257d22a2758ff6ded38c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="OutputPnp"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a9404d826eccc400db2721caef861542c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="OutputInverted"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a73daa9385ca8d4b9d00ff81786901f32"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TeachMargin"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a96eea1b85284a82c9d45ad60ec0f931b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TeachState"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a7b30aa0a68ff0ce9caed8118f200412b"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="AutomaticLedIntensity"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a5c62c1771e82704a7dc0ab520859d8c5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ChangeDelay"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a466f158ea0f4afb714a006709e962048"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="ObjectDemerging"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a32de14961f5aa947ca5ab3705b2f6ecd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="MeasurementRate"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4a74c379d762bbfea0b583086a3eb6979f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeviceName"><param name="Local" value="_device_8h.html#a0620ed2208e33d9bf78915583828f3c4affc7ade23d97245d93a45587d2b15ae8"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="Results"><param name="Local" value="_device_8h.html#a7318265ccf53d566eeb4b66b011b38c8"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Oversampling"><param name="Local" value="_device_8h.html#a7318265ccf53d566eeb4b66b011b38c8a89fbce9a7b51ca36db737a977216ce8c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Accumulation"><param name="Local" value="_device_8h.html#a7318265ccf53d566eeb4b66b011b38c8a75e7e6f34b8a8e2d13d195cf0a8ef0a5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EchoSegment"><param name="Local" value="_device_8h.html#a7318265ccf53d566eeb4b66b011b38c8a896d75a68a39cdec9bc6d94f545fc4e5"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="EchoDistance"><param name="Local" value="_device_8h.html#a7318265ccf53d566eeb4b66b011b38c8a681c9f826bb0375687d591d886f328ba"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="Temperature"><param name="Local" value="_device_8h.html#a7318265ccf53d566eeb4b66b011b38c8aee7a8e262285ed49ea1b4e4ae11525bd"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LedIntensity"><param name="Local" value="_device_8h.html#a7318265ccf53d566eeb4b66b011b38c8a94349c592bc0e3a85b0bdcf64f67c0e4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="GainEnabled"><param name="Local" value="_device_8h.html#a7318265ccf53d566eeb4b66b011b38c8aa33d9ee74d273caef82abc1e4e8222ba"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="OutputState"><param name="Local" value="_device_8h.html#a7318265ccf53d566eeb4b66b011b38c8a8c52494adb6143643e852ae7b9c6517c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="DeviceControl.h"><param name="Local" value="_device_control_8h.html"><param name="ImageNumber" value="11"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="DeviceControl"><param name="Local" value="class_leddar_n_e_t_1_1_device_control.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="DeviceControl"><param name="Local" value="class_leddar_n_e_t_1_1_device_control_a8167746fa9d2253e740210326156b2af.html#a8167746fa9d2253e740210326156b2af"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="~DeviceControl"><param name="Local" value="class_leddar_n_e_t_1_1_device_control_a2cb5f921edb1e6bb145a6c746f0d7e87.html#a2cb5f921edb1e6bb145a6c746f0d7e87"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="TheDevice"><param name="Local" value="class_leddar_n_e_t_1_1_device_control_a02857e6674f2552ad1451d20bd9beb2c.html#a02857e6674f2552ad1451d20bd9beb2c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarC.cpp"><param name="Local" value="_leddar_c_8cpp.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="CATCH"><param name="Local" value="_leddar_c_8cpp.html#ae30f5c713cfa6a69c6b26492c992052b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LC_DLL_NAME"><param name="Local" value="_leddar_c_8cpp.html#ae437fb0ef3ef5dbc9fda6ef4d700a8a6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarAddCallback"><param name="Local" value="_leddar_c_8cpp.html#afdd3fa1fb21e528ceaf7438584ba1fbe"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarConfigureRecording"><param name="Local" value="_leddar_c_8cpp.html#ad590921fa69655b02b1710253bb24f0d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarConnect"><param name="Local" value="_leddar_c_8cpp.html#a3a9424362b251e1db9a73f4b9334d126"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarCreate"><param name="Local" value="_leddar_c_8cpp.html#ad4e755cbfb1e5e0ee7880f8267e84b10"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarDestroy"><param name="Local" value="_leddar_c_8cpp.html#a9a66b97a2726ff1e7b92daa181ae66fd"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarDisconnect"><param name="Local" value="_leddar_c_8cpp.html#a07925ba8ad03ea465e5775a3d5aa3492"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarExecuteCommand"><param name="Local" value="_leddar_c_8cpp.html#afb11aa2736c773db98be88382cf62af7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetConfigurationModified"><param name="Local" value="_leddar_c_8cpp.html#a8d8a203ebffad094d40a6fb0bd95871b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetConnected"><param name="Local" value="_leddar_c_8cpp.html#a37c388b1f005150a809d22eb586ea96b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetCurrentRecordIndex"><param name="Local" value="_leddar_c_8cpp.html#ab797d5259e20cc29fba05787e3c83ff8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetDetectionCount"><param name="Local" value="_leddar_c_8cpp.html#a72f970164ed1bce3f3f0ebd7ee5369e2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetDetections"><param name="Local" value="_leddar_c_8cpp.html#a9fdb9f1388d3f35f52c6351eddc3c092"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetErrorMessage"><param name="Local" value="_leddar_c_8cpp.html#ac06a6bd07cf2dbc87f4a90349d275287"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetKey"><param name="Local" value="_leddar_c_8cpp.html#a80188dc0e25d4c8590c970e6ca3b16d0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetMaxRecordFileSize"><param name="Local" value="_leddar_c_8cpp.html#a1ea3fb2c9536bcc541c7089c0ea81a77"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetProperty"><param name="Local" value="_leddar_c_8cpp.html#a2b41cbdfb3c9e1b997c12f42bb92d577"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetRecording"><param name="Local" value="_leddar_c_8cpp.html#a0be685ffee3e5ced2cae87330e43b425"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetRecordingDirectory"><param name="Local" value="_leddar_c_8cpp.html#ae7c132079736053c98bf7edf136f088b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetRecordingLevels"><param name="Local" value="_leddar_c_8cpp.html#a79940e20e0883a2082943101d439d6df"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetRecordLoading"><param name="Local" value="_leddar_c_8cpp.html#aa6569245472d545d7540a8dc40ad20d9"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetRecordSize"><param name="Local" value="_leddar_c_8cpp.html#ab56c2064f38cf0915a8005ceee8d702e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetResult"><param name="Local" value="_leddar_c_8cpp.html#ac19d9b897b84c7848db981866bf7c851"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetTextProperty"><param name="Local" value="_leddar_c_8cpp.html#a30596aa7b91d86d76286e7f036f76f54"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetVersion"><param name="Local" value="_leddar_c_8cpp.html#aef9a980706453cc7bbeefaa40c9c4eb0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarKeyPressed"><param name="Local" value="_leddar_c_8cpp.html#a84f6637388085705fff512b9f47523da"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarListSensors"><param name="Local" value="_leddar_c_8cpp.html#aa71753451ee81cdaba2450af290cf4c3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarLoadRecord"><param name="Local" value="_leddar_c_8cpp.html#ae0552fe2a7e4bc90e78665485a80db99"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarMoveRecordTo"><param name="Local" value="_leddar_c_8cpp.html#a81b0202f6ab48400f355a4937e62960c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarPing"><param name="Local" value="_leddar_c_8cpp.html#ac9bed19fbdf7149ed1520fc10072723f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarRemoveCallback"><param name="Local" value="_leddar_c_8cpp.html#a1f960c732c5ed59dd6816dfc53dc9cb3"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarRestoreConfiguration"><param name="Local" value="_leddar_c_8cpp.html#a09aabd3b748b75a3e11517f21df45047"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarSetProperty"><param name="Local" value="_leddar_c_8cpp.html#a8b5742c42e0c96708b4eec4244be149c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarSetTextProperty"><param name="Local" value="_leddar_c_8cpp.html#a17b152905c18ebd3f8a58292597e9ef0"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarSleep"><param name="Local" value="_leddar_c_8cpp.html#aed03e3bec8cf600a11d03ec1ff8a2649"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarStartDataTransfer"><param name="Local" value="_leddar_c_8cpp.html#aa15fc0b9e9804d69a557a9943c996fad"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarStartRecording"><param name="Local" value="_leddar_c_8cpp.html#ab1de21b1f2661a25d462a9d64000a656"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarStepBackward"><param name="Local" value="_leddar_c_8cpp.html#aa8a8c5f78146bf8b0b665ea9f9931f3f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarStepForward"><param name="Local" value="_leddar_c_8cpp.html#ae3f70ec0b084eaa633ea4d761c927bda"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarStopDataTransfer"><param name="Local" value="_leddar_c_8cpp.html#a4e9da88167692b376c623ebe9e66e336"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarStopRecording"><param name="Local" value="_leddar_c_8cpp.html#aa8f8302e4dfb5a8534055a5bd91f9e29"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarWriteConfiguration"><param name="Local" value="_leddar_c_8cpp.html#a29cbc9c86b63183f373c9091b38315c9"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarC.h"><param name="Local" value="_leddar_c_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LdDetection"><param name="Local" value="struct_ld_detection.html"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="mAmplitude"><param name="Local" value="struct_ld_detection_ac771bf05afdf1dd4a7f23a573c335aea.html#ac771bf05afdf1dd4a7f23a573c335aea"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="mDistance"><param name="Local" value="struct_ld_detection_abbeb8b4c52d9aa5bc6361119634bde42.html#abbeb8b4c52d9aa5bc6361119634bde42"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="mFlags"><param name="Local" value="struct_ld_detection_ac2173ca362a331b11eef81e15c6b7903.html#ac2173ca362a331b11eef81e15c6b7903"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="mSegment"><param name="Local" value="struct_ld_detection_a7d6343d32b4f3018a2efbb23a172febe.html#a7d6343d32b4f3018a2efbb23a172febe"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_ALREADY_STARTED"><param name="Local" value="_leddar_c_8h.html#af85746be0c3feccba186f2328085f1d1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_END_OF_FILE"><param name="Local" value="_leddar_c_8h.html#abcdc4ae1541ba150c964f81ea1523ee8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_ERROR"><param name="Local" value="_leddar_c_8h.html#a67f3156919dbb3409d9005813ab8f60e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_INVALID_ARGUMENT"><param name="Local" value="_leddar_c_8h.html#af52cadeef92720706a4292a02306f57a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_NO_DATA_TRANSFER"><param name="Local" value="_leddar_c_8h.html#a4e75085f3516c8e32efb9680dd39db3b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_NO_RECORD"><param name="Local" value="_leddar_c_8h.html#a6f2955b08316f82a55c6fc11eaf2a086"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_NOT_CONNECTED"><param name="Local" value="_leddar_c_8h.html#ab2dc16614677481cfa6e7057b54bf6d4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_NOT_ENOUGH_SPACE"><param name="Local" value="_leddar_c_8h.html#a2067bb708c7934b5eff9239191d7f223"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_START_OF_FILE"><param name="Local" value="_leddar_c_8h.html#a015d6492e91a9010162eeb6aabddd5a8"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_SUCCESS"><param name="Local" value="_leddar_c_8h.html#a6344db3ff5413c11cb91b462fc10993d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LEDDARC_DLL"><param name="Local" value="_leddar_c_8h.html#ad7b9cb965cfad6c418390ce8b3eb3135"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarPrintf"><param name="Local" value="_leddar_c_8h.html#a16ec24d4486c7f0cd97531ecbc6ebb0e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarScanf"><param name="Local" value="_leddar_c_8h.html#ae2ddb326254c49db20d7466107ab238c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LTS"><param name="Local" value="_leddar_c_8h.html#aa512caa09a5468221ed5e1d16763582e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LdCallback"><param name="Local" value="_leddar_c_8h.html#a825d8070b8c27d0263b11de3c363e07f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarBool"><param name="Local" value="_leddar_c_8h.html#a8a577c1215c1c831d53fdd82cdb32bac"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarHandle"><param name="Local" value="_leddar_c_8h.html#abb5af813f2a0fff38e65e78300d40673"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarU16"><param name="Local" value="_leddar_c_8h.html#acda2fabcb7c62bceef227c2f86c1d08f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarU32"><param name="Local" value="_leddar_c_8h.html#a810529ed1c930b3fd87dc5e7d6582308"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LtChar"><param name="Local" value="_leddar_c_8h.html#a8409c4fcf823c2339dac14a4aae3e329"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LdDataLevels"><param name="Local" value="_leddar_c_8h.html#a6426f009b70aafc5bd37bd6432ed0544"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LDDL_NONE"><param name="Local" value="_leddar_c_8h.html#a6426f009b70aafc5bd37bd6432ed0544a3d0eb81377b2430c71a9acf47f868555"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LDDL_STATE"><param name="Local" value="_leddar_c_8h.html#a6426f009b70aafc5bd37bd6432ed0544a7e071af9aea2e9fa53d7f541f5278015"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="LDDL_DETECTIONS"><param name="Local" value="_leddar_c_8h.html#a6426f009b70aafc5bd37bd6432ed0544a651d1e6f0acfd8fb0c855a58f60fe713"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarAddCallback"><param name="Local" value="_leddar_c_8h.html#ace36c269c92407bede98659c4b027e63"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarConfigureRecording"><param name="Local" value="_leddar_c_8h.html#aecacc21120320286e0156fbd355d0500"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarConnect"><param name="Local" value="_leddar_c_8h.html#a295cd941492c374ef0668fa5098a7e82"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarCreate"><param name="Local" value="_leddar_c_8h.html#aa5076bc03ffbf1b4a90729ea505237ce"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarDestroy"><param name="Local" value="_leddar_c_8h.html#a439ca18af6c20d66ffe9642ec3dea4a6"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarDisconnect"><param name="Local" value="_leddar_c_8h.html#a9504ba227b4aa9ef2fb56dfd7755e9e7"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarExecuteCommand"><param name="Local" value="_leddar_c_8h.html#ad1fd0fbbc9f7e28f54bb927079e8ceb2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetConfigurationModified"><param name="Local" value="_leddar_c_8h.html#a3d88cbf44b158184ec727be92593f65d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetConnected"><param name="Local" value="_leddar_c_8h.html#ad7c19aa53d0247e55890ed7d1aea8f85"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetCurrentRecordIndex"><param name="Local" value="_leddar_c_8h.html#a015c86ebb427cf82e1e195bc35a4bb93"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetDetectionCount"><param name="Local" value="_leddar_c_8h.html#a10afb0ef3918442d954ba953c7130f3a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetDetections"><param name="Local" value="_leddar_c_8h.html#a3ab279b7b1cb278636d68ce7a2cfc9e4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetErrorMessage"><param name="Local" value="_leddar_c_8h.html#a95aff1626b80173803ea51573dacf215"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetKey"><param name="Local" value="_leddar_c_8h.html#a430a8a03e2cb4775812ba8c1090e9c15"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetMaxRecordFileSize"><param name="Local" value="_leddar_c_8h.html#a6ee84b275e2605d826ddbdfb4daa9fb4"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetProperty"><param name="Local" value="_leddar_c_8h.html#acd758a6a10506d91b23c2dc0e31738f2"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetRecording"><param name="Local" value="_leddar_c_8h.html#a45ea405c76602fa00e993af09da0973f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetRecordingDirectory"><param name="Local" value="_leddar_c_8h.html#a42909be96a4f2c662962e045963d7264"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetRecordingLevels"><param name="Local" value="_leddar_c_8h.html#ad6b06c76eb7cd1cbd8931c548e83007d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetRecordLoading"><param name="Local" value="_leddar_c_8h.html#af56ebd0501de548cd20818abdd292408"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetRecordSize"><param name="Local" value="_leddar_c_8h.html#ac145b32fa5be3052b49578d43c97edc1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetResult"><param name="Local" value="_leddar_c_8h.html#a998a34eda5d04f9b40526d8a5245192b"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetTextProperty"><param name="Local" value="_leddar_c_8h.html#afce231d0e348bcc167964256508583b5"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarGetVersion"><param name="Local" value="_leddar_c_8h.html#a2256b0fbf32e9f35e071e8a60c432296"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarKeyPressed"><param name="Local" value="_leddar_c_8h.html#a62e672038f956aa4aef1b5d844ab0c45"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarListSensors"><param name="Local" value="_leddar_c_8h.html#aeebd5ce1950246b3f237adb42175c472"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarLoadRecord"><param name="Local" value="_leddar_c_8h.html#aa6913696195e6a72e9eeccf29b329530"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarMoveRecordTo"><param name="Local" value="_leddar_c_8h.html#a2e7e091c8eb2279700e1d1f344634648"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarPing"><param name="Local" value="_leddar_c_8h.html#a9df77734e7170367e85e5322ca126d0e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarRemoveCallback"><param name="Local" value="_leddar_c_8h.html#ad280bfa3af3820175d402e08771bba97"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarRestoreConfiguration"><param name="Local" value="_leddar_c_8h.html#a7c1dfd3122c60ef3cd1f71ba3cb676c1"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarSetProperty"><param name="Local" value="_leddar_c_8h.html#a1ee43e71f4b7a8fc0204b54d428d829a"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarSetTextProperty"><param name="Local" value="_leddar_c_8h.html#a5cd1a8ecf8df3c48339121884887df52"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarSleep"><param name="Local" value="_leddar_c_8h.html#a02639d22d61e1b4dda4239b59d01842c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarStartDataTransfer"><param name="Local" value="_leddar_c_8h.html#a136423bf24849854b9348fe406dde418"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarStartRecording"><param name="Local" value="_leddar_c_8h.html#ac19709e65910d5b4f6ddc38ec9c88581"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarStepBackward"><param name="Local" value="_leddar_c_8h.html#a8bf1f8eca8efb7a2b2c60c63fa46a694"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarStepForward"><param name="Local" value="_leddar_c_8h.html#a2c2e1e7d64bdf4960378894befd3b69f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarStopDataTransfer"><param name="Local" value="_leddar_c_8h.html#a07db8673e7e88f403862b5c11de20456"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarStopRecording"><param name="Local" value="_leddar_c_8h.html#a32dccb7d2f6b53025f369a7ff29aa4ac"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarWriteConfiguration"><param name="Local" value="_leddar_c_8h.html#aeb836bf403a1c59d5d8d52c4e2e4f577"><param name="ImageNumber" value="11"></OBJECT>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarCommands.h"><param name="Local" value="_leddar_commands_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SQL_FAR_PERPENDICULAR"><param name="Local" value="_leddar_commands_8h.html#af02fca6299e74080079ee4888877066d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SQL_FAR_RADIAL"><param name="Local" value="_leddar_commands_8h.html#ad1b7130937ab26848e7515327ac1130d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SQL_NEAR_PERPENDICULAR"><param name="Local" value="_leddar_commands_8h.html#ac72ee8b03a14aa99f2386b99bdfa684f"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="SQL_NEAR_RADIAL"><param name="Local" value="_leddar_commands_8h.html#adb8721f72153c45e34f7b300f2ebb03d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LdCommands"><param name="Local" value="_leddar_commands_8h.html#a5abda2c7fcb6af7063fc36ff8b2afa79"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CID_START_TEACH"><param name="Local" value="_leddar_commands_8h.html#a5abda2c7fcb6af7063fc36ff8b2afa79aaa631aeb2e0a2998d871940fc1f99ca3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="CID_SET_QUICK_LIMIT"><param name="Local" value="_leddar_commands_8h.html#a5abda2c7fcb6af7063fc36ff8b2afa79a7f987afd91f0870c0c8d87dba761670d"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarProperties.h"><param name="Local" value="_leddar_properties_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_MEASUREMENT_RATE_12_5"><param name="Local" value="_leddar_properties_8h.html#a58daf46ba2dd1f0f728c710ea5d7c839"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_MEASUREMENT_RATE_1_5625"><param name="Local" value="_leddar_properties_8h.html#ac0ff36a4b9fa2ecb8217a8fa1ce8cbbe"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_MEASUREMENT_RATE_25"><param name="Local" value="_leddar_properties_8h.html#a3e8cdc0e060ecb54967ca210d77f852c"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_MEASUREMENT_RATE_3_125"><param name="Local" value="_leddar_properties_8h.html#a1a4510b0bdc12cb328237a3e5bb76b4d"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_MEASUREMENT_RATE_50"><param name="Local" value="_leddar_properties_8h.html#ac93bdf01d42b4c6cc9160e2af3621d8e"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LD_MEASUREMENT_RATE_6_25"><param name="Local" value="_leddar_properties_8h.html#a89997435d2146e5116a67fd86c71b814"><param name="ImageNumber" value="11"></OBJECT>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LdProperties"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_LED_INTENSITY"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712af3b77b7af374be2f9c5715df876855de"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_OVERSAMPLING_EXPONENT"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a1de1fb918ddbb5046814624d8534dbcc"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_OVERSAMPLING"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712aeb33e78b5a20e8326b8265d6085af01f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_ACCUMULATION_EXPONENT"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a72594995e42de2863e9bad59e7492158"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_ACCUMULATION"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a1f331d6347a949f9354353be4e6e9a6a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_BASE_POINT_COUNT"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a7240dfe67e96159c7cdcc200e91fa002"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_THRESHOLD_OFFSET"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a0f270bba69c3f2e31089f37ea4cc171d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_SEGMENT_LEFT"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a2c4e1a2ac6b7c434a9f3b406f6bce410"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_SEGMENT_RIGHT"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712afe2bb8febb8e53b42ae79d897022d9b2"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_SEGMENT_TOP"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712af716d00a0c1d4921a6c9cb80cdf7eafb"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_SEGMENT_BOTTOM"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712ac67f247558d22fe194ac57db61272145"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_ZONE_MIN_DISTANCE"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a2ea31851ae7fe4fd3c1cdf070840e337"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_ZONE_MAX_DISTANCE"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a02850d5368314e6e8c0436c763e32e31"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_ZONE_LEFT_LIMIT"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a753d64954b37b322c6409f20174a93b1"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_ZONE_RIGHT_LIMIT"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712ad2d254b86bfb8d072e39ce617eccdfda"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_ZONE_X_LEFT"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a36187b11970dfea5493c1788f8fafd67"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_ZONE_X_RIGHT"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a6f77ecfcf999f3c9888470293747f5c6"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_ZONE_ACTIVE"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a490e759c701f47c9947fb6a8c814bdea"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_SENSOR_HEIGHT"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a4de93ddd4b3ec85b5ca2ebdfd910aa08"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_REFERENCE_LINE_DISTANCE"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a301c9b72d5922e52186cc89f462ad459"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_GLOBAL_TRANSFORM"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a247e0ffb33e5b765f9ca602f741d39ad"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_INVERSE_TRANSFORM"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a16e9c8c7f38f4e02da4dcc9d54b5043f"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_RECEIVER_BOARD_VERSION"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712aafaea0ee7e277f667a42e8539f0c0eb3"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_ZONE_NEAR_LIMIT"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712acf5c4b488f8f13ad9a70a3ddea810d51"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_ZONE_FAR_LIMIT"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a1fba863f931b55b376bf651a85b5f9b4"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_ZONE_ENABLED"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a826b114fdbd2deed82df17a94d79a22e"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_ZONE_SEGMENT_ENABLED"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a947fdc675801a2b092f7744d6a85c1ba"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_ZONE_RISING_DEBOUNCE"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a5d1f7480c103b9d9d6880e0bd7f87141"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_ZONE_FALLING_DEBOUNCE"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a51530b7b05f2aa900f9e81049f68dc7a"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_OUTPUT_PNP"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712ae49b4e3d88db339e9995d3daf191ea97"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_OUTPUT_INVERTED"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a21b0c30c5bcb7dc4d64beef28241582c"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_TEACH_MARGIN"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a6f9a773b16e1ddba53edbd3e3c6b0962"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_TEACH_STATE"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a28c428644ff01fa0188f2a5fa517d319"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_AUTOMATIC_LED_INTENSITY"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a3a42f47279ebd416bb027d085a6666d9"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_CHANGE_DELAY"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a8efd5decf6b6ec8c510765e8d88d9467"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_OBJECT_DEMERGING"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712a086ca17bec5ac7d3b6aae6c4f6cf4d43"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_MEASUREMENT_RATE"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712aaf3b533803a45e6a1cd5133b27f8f34d"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="PID_NAME"><param name="Local" value="_leddar_properties_8h.html#aeff400a095ca0c85bc0f66bf95030712af5feb8780710702cb9ae3544f1dfe50c"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="LeddarResults.h"><param name="Local" value="_leddar_results_8h.html"><param name="ImageNumber" value="1"></OBJECT>
+      <UL>
+      <LI><OBJECT type="text/sitemap"><param name="Name" value="LdResults"><param name="Local" value="_leddar_results_8h.html#a3001d886a34db6dc814455c9fa7a48bb"><param name="ImageNumber" value="1"></OBJECT>
+        <UL>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RID_OVERSAMPLING"><param name="Local" value="_leddar_results_8h.html#a3001d886a34db6dc814455c9fa7a48bbaac4b8ba2181688a3106518ca8e31e564"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RID_ACCUMULATION"><param name="Local" value="_leddar_results_8h.html#a3001d886a34db6dc814455c9fa7a48bba758fc2920969a231138a10206935e385"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RID_DETECTION_SEGMENT"><param name="Local" value="_leddar_results_8h.html#a3001d886a34db6dc814455c9fa7a48bba38aeaa0673091ef0b7ad5730ef465dc8"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RID_DETECTION_DISTANCE"><param name="Local" value="_leddar_results_8h.html#a3001d886a34db6dc814455c9fa7a48bba6d3002f817a5c0c68f0b1fe5d2594887"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RID_TEMPERATURE"><param name="Local" value="_leddar_results_8h.html#a3001d886a34db6dc814455c9fa7a48bbad14db33c535f7a93057b235a74708349"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RID_LED_INTENSITY"><param name="Local" value="_leddar_results_8h.html#a3001d886a34db6dc814455c9fa7a48bba3936e1d2408bb7486f2071458d304031"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RID_GAIN_ENABLED"><param name="Local" value="_leddar_results_8h.html#a3001d886a34db6dc814455c9fa7a48bbad6d8d2dbec0468a031ebd636c3ab0f17"><param name="ImageNumber" value="11"></OBJECT>
+        <LI><OBJECT type="text/sitemap"><param name="Name" value="RID_OUTPUT_STATE"><param name="Local" value="_leddar_results_8h.html#a3001d886a34db6dc814455c9fa7a48bbaec165b28b0c96f8ff99b51d6d614cf9a"><param name="ImageNumber" value="11"></OBJECT>
+        </UL>
+      </UL>
+    </UL>
+  <LI><OBJECT type="text/sitemap"><param name="Name" value="File Members"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <UL>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="All"><param name="Local" value="globals.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Functions"><param name="Local" value="globals_func.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Typedefs"><param name="Local" value="globals_type.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerations"><param name="Local" value="globals_enum.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Enumerator"><param name="Local" value="globals_eval.html"><param name="ImageNumber" value="11"></OBJECT>
+    <LI><OBJECT type="text/sitemap"><param name="Name" value="Macros"><param name="Local" value="globals_defs.html"><param name="ImageNumber" value="11"></OBJECT>
+    </UL>
+  </UL>
+</UL>
+</BODY>
+</HTML>
