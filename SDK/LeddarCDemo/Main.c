@@ -123,7 +123,7 @@ DataCallback( void *aHandle, unsigned int aLevels )
         printf( "%6d ", LeddarGetCurrentRecordIndex( gHandle ) );
     }
 
-    for( i=0, j=0; (i<lCount) && (j<12); ++i )
+    for( i=0, j=0; (i<lCount) && (j<16); ++i )
     {
         printf( "%5.2f ", lDetections[i].mDistance );
         ++j;
