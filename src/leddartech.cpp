@@ -24,6 +24,7 @@
 // ! functions for I/O and conversion function to/from UTF-8.
 // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 // *****************************************************************************
+#include <ros/ros.h>
 
 #include <stdio.h>
 #include <ctype.h>
@@ -585,9 +586,11 @@ MainMenu( void )
 /// \brief   Standard C entry point!
 // *****************************************************************************
 
-int
-main( int argc, char *argv[] )
-{
+int main(int argc, char** argv){
+
+    ros::init (argc, argv, "leddartech");
+    ros::NodeHandle n;
+
     puts( "*************************************************" );
     puts( "* Welcome to the LeddarC Demonstration Program! *" );
     puts( "*************************************************" );
