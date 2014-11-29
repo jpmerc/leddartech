@@ -25,18 +25,23 @@
 // !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
 // *****************************************************************************
 #include <ros/ros.h>
+#include <sensor_msgs/LaserScan.h>
 
 #include <stdio.h>
 #include <ctype.h>
 #include <string.h>
-
 #include "LeddarC.h"
 #include "LeddarProperties.h"
+
 
 #define ARRAY_LEN( a )  (sizeof(a)/sizeof(a[0]))
 
 // Global variable to avoid passing to each function.
 static LeddarHandle gHandle=NULL;
+
+ros::Publisher laser_publisher;
+
+
 
 // *****************************************************************************
 // Function: CheckError
@@ -580,6 +585,12 @@ MainMenu( void )
     }
 }
 
+
+sensor_msgs::LaserScan constructLeddarMessage(){
+
+
+}
+
 // *****************************************************************************
 // Function: main
 //
@@ -590,6 +601,9 @@ int main(int argc, char** argv){
 
     ros::init (argc, argv, "leddartech");
     ros::NodeHandle n;
+
+    laser_publisher = n.advertise<sensor_msgs::LaserScan>(std::string("leddar_scan"), 1);
+
 
     puts( "*************************************************" );
     puts( "* Welcome to the LeddarC Demonstration Program! *" );
