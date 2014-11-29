@@ -13,7 +13,14 @@ include_directories(include)
 link_directories(${PROJECT_SOURCE_DIR}/lib)
 
 ## Declare a cpp executable
- add_executable(leddartech src/leddartech.cpp)
+ add_executable(leddartech
+  src/leddartech.cpp
+  include/LeddarC.h
+  include/LeddarCommands.h
+  include/LeddarProperties.h
+  include/LeddarResults.h
+ )
+  
  target_link_libraries(leddartech
    ${catkin_LIBRARIES}
    LeddarTech
