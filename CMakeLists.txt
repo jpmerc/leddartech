@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
-project(leddartech)
+project(test)
 
 find_package(catkin REQUIRED COMPONENTS
   roscpp
@@ -8,22 +8,16 @@ find_package(catkin REQUIRED COMPONENTS
   std_msgs
 )
 
-
-catkin_package(
-#  INCLUDE_DIRS include
-#  LIBRARIES leddartech
-#  CATKIN_DEPENDS roscpp rospy sensor_msgs std_msgs
-#  DEPENDS system_lib
-)
-
-include_directories(
-	${catkin_INCLUDE_DIRS}
-	${PROJECT_SOURCE_DIR}/Leddar	
-	${PROJECT_SOURCE_DIR}/SDK/LeddarC
-)
-
+include_directories(include)
 
 link_directories(${PROJECT_SOURCE_DIR}/lib)
 
-add_executable(leddartech leddartech.cpp)
-target_link_libraries(${catkin_LIBRARIES} leddartech LeddarC Leddar LeddarTech)
+## Declare a cpp executable
+ add_executable(leddartech src/leddartech.cpp)
+ target_link_libraries(leddartech
+   ${catkin_LIBRARIES}
+   LeddarTech
+   Leddar
+   LeddarC
+ )
+
