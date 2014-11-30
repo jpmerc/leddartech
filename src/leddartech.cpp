@@ -26,6 +26,7 @@
 // *****************************************************************************
 #include <ros/ros.h>
 #include <sensor_msgs/LaserScan.h>
+#include <angles/angles.h>
 
 #include <stdio.h>
 #include <ctype.h>
@@ -39,8 +40,10 @@
 // Global variable to avoid passing to each function.
 static LeddarHandle gHandle=NULL;
 
-ros::Publisher laser_publisher;
 
+sensor_msgs::LaserScan constructLeddarMessage(std::vector<double> data);
+ros::Publisher leddar_publisher;
+int leddar_sequence_number = 0;
 
 
 // *****************************************************************************
@@ -129,12 +132,19 @@ DataCallback( void *aHandle, unsigned int aLevels )
         printf( "%6d ", LeddarGetCurrentRecordIndex( gHandle ) );
     }
 
+    std::vector<double> leddar_data;
     for( i=0, j=0; (i<lCount) && (j<16); ++i )
     {
         printf( "%5.2f ", lDetections[i].mDistance );
+        leddar_data.push_back(lDetections[i].mDistance);
         ++j;
     }
     puts( "" );
+
+
+    sensor_msgs::LaserScan message = constructLeddarMessage(leddar_data);
+    leddar_publisher.publish(message);
+
 
     return 1;
 }
@@ -586,9 +596,29 @@ MainMenu( void )
 }
 
 
-sensor_msgs::LaserScan constructLeddarMessage(){
+sensor_msgs::LaserScan constructLeddarMessage(std::vector<double> data){
 
+    sensor_msgs::LaserScan scan_message;
+    scan_message.header.frame_id    = "leddar_base_frame";
+    scan_message.header.stamp       = ros::Time::now();
+    scan_message.header.seq         = leddar_sequence_number;
+    scan_message.angle_min          = angles::from_degrees(-22.5);
+    scan_message.angle_max          = angles::from_degrees(22.5);
+    scan_message.angle_increment    = angles::from_degrees(45/16);
+    scan_message.range_min          = 0;
+    scan_message.range_max          = 50;
 
+    std::cout << "Data size = " << data.size() << std::endl;
+
+    for(int i=0; i < data.size() ; i++){
+        scan_message.ranges.push_back(data.at(i));
+    }
+
+    std::cout << scan_message << std::endl;
+
+    leddar_sequence_number++;
+
+    return scan_message;
 }
 
 // *****************************************************************************
@@ -599,10 +629,10 @@ sensor_msgs::LaserScan constructLeddarMessage(){
 
 int main(int argc, char** argv){
 
-    ros::init (argc, argv, "leddartech");
+    ros::init (argc, argv, "leddartech_node");
     ros::NodeHandle n;
 
-    laser_publisher = n.advertise<sensor_msgs::LaserScan>(std::string("leddar_scan"), 1);
+    leddar_publisher = n.advertise<sensor_msgs::LaserScan>(std::string("leddar_scan"), 1);
 
 
     puts( "*************************************************" );

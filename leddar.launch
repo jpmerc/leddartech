@@ -1,0 +1,5 @@
+<launch>
+
+<node pkg="leddartech" type="leddartech" name="leddartech" respawn="false" output="screen" />
+
+</launch>
