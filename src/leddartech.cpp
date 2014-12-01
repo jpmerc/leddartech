@@ -599,7 +599,7 @@ MainMenu( void )
 sensor_msgs::LaserScan constructLeddarMessage(std::vector<double> data){
 
     sensor_msgs::LaserScan scan_message;
-    scan_message.header.frame_id    = "leddar_base_frame";
+    scan_message.header.frame_id    = "leddar_base_link";
     scan_message.header.stamp       = ros::Time::now();
     scan_message.header.seq         = leddar_sequence_number;
     scan_message.angle_min          = angles::from_degrees(-22.5);

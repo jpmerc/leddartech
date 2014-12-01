@@ -19,9 +19,6 @@ include_directories(include)
 
 link_directories(${PROJECT_SOURCE_DIR}/lib)
 
-## Declare a cpp executable
 add_executable(leddartech_node src/leddartech.cpp)
 target_link_libraries(leddartech_node ${catkin_LIBRARIES} LeddarTech Leddar LeddarC)
 
-add_executable(test_node src/test.cpp)
-target_link_libraries(test_node ${catkin_LIBRARIES})
